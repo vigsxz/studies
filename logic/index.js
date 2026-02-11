@@ -7,5 +7,5 @@ while(n <= 10) {
     count++;
     n++;
 }
-let average = sum / count;
+let average = sum / 
 console.log(average);
