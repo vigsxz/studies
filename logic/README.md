@@ -1,5 +1,5 @@
 # JavaScript Learning Exercises
-This repository contains my logic exercises in JavaScript.
+This folder contains my logic exercises with JavaScript.
 
 ## Structure
 - `logic/` → Exercises with while, if, loops, etc.
