@@ -8,6 +8,3 @@ while (n[i] !== 0) {
      console.log(i);
 }
 console.log(sum);
-
-
-
