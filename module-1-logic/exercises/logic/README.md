@@ -1,5 +1,4 @@
-```markdown
-# Module 1: Programming Logic
+ Module 1: Programming Logic
 
 Basic programming concepts using JavaScript.
 
