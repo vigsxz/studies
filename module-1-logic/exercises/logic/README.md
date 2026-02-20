@@ -1,10 +1,32 @@
-# JavaScript Learning Exercises
-This folder contains my logic exercises with JavaScript.
+```markdown
+# Module 1: Programming Logic
 
-## Structure
-- `logic/` → Exercises with while, if, loops, etc.
+Basic programming concepts using JavaScript.
 
-## How to run
-In terminal:
+## Learning Goals
+
+- [x] Variables and data types
+- [x] Conditional statements (if/else)
+- [x] Loops (while)
+- [x] User input handling
+- [ ] Functions (next module)
+
+## Exercises
+
+| File | Description | Concepts |
+|------|-------------|----------|
+| `01-input.js` | Basic user input | Variables |
+| `02-sum.js` | Sum calculator | Operators |
+| `03-even-odd.js` | Parity checker | if/else, modulo |
+
+## Key Takeaways
+
+- `while` loops work when iteration count is unknown
+- Always validate user input
+- Use `parseInt()` for number conversion
+
+## How to Run
+
 ```bash
-node logic/01-input.js
+cd exercises
+node 01-input.js
