@@ -15,8 +15,8 @@ Remote job by 2027.
 
 ## Progress
 
--[X] Terminal basics
--[ ] JavaScript fundamentals
--[ ] First project
--[ ] Portfolio
--[ ] Remote job
+- [X] Terminal basics
+- [ ] JavaScript fundamentals
+- [ ] First project
+- [ ] Portfolio
+- [ ] Remote job
